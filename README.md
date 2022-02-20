@@ -1,0 +1,5 @@
+- 👋 Hola, yo soy @Ivancvergara. Tengo 23 años, titulado como Licenciado en Sistemas Computacionales Administrativos por la Universidad Veracruzana.
+- 👀 Estoy interesado en seguir aprendiendo sobre mi carrera y área en la informática.
+- 🌱 Actualmente estoy aprendiendo a incursionar en la programación, cosa que me ha estado llamando la atención mucho.
+- 💞️ Busco colaborar en cualquier cosa que me ayude en mi vida profesional, mi objetivo principal es seguir aprendiendo.
+- 📫 Cómo contactarme: A través de línea telefónica o whatsapp +52 782 188 91 02 o vía correo eletrónico irving_ivan1906@hotmail.com
