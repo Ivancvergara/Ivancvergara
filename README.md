@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Iván 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Licenciado en Sistemas Computacionales Administrativos</strong><br/>Tengo 23 años, y actualmente estoy estudiando de forma autónoma para convertirme en Developer</p><br> <strong>Contáctame 👇<strong>
+<p align="center">Soy <strong>Licenciado en Sistemas Computacionales Administrativos</strong><br/>Tengo 23 años, y actualmente estoy estudiando de forma autónoma para convertirme en Developer<br><strong>Contáctame 👇<strong></p>
 <p align="center">
   <a href="https://instagram.com/ivan_cvergara" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ivan_cvergara" height="28px" width="28px" />
